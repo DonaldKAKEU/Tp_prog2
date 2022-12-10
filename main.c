@@ -2,6 +2,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include "proces.h"
+#include "proces.c"
 
 int main(void) 
 {
